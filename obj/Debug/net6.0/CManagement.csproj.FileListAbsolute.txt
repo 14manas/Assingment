@@ -1,0 +1,5 @@
+D:\VS 22\CManagement\obj\Debug\net6.0\CManagement.csproj.AssemblyReference.cache
+D:\VS 22\CManagement\obj\Debug\net6.0\CManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 22\CManagement\obj\Debug\net6.0\CManagement.AssemblyInfoInputs.cache
+D:\VS 22\CManagement\obj\Debug\net6.0\CManagement.AssemblyInfo.cs
+D:\VS 22\CManagement\obj\Debug\net6.0\CManagement.csproj.CoreCompileInputs.cache
